@@ -9,3 +9,8 @@ body  {
 .Heading h1  {
   font-size: 40px
 }
+.Design {
+  color: white;
+  font-weight: bold;
+  background-image: url(the-flatiron-building.png)
+}
