@@ -9,8 +9,13 @@ body  {
 .Heading h1  {
   font-size: 40px
 }
-.Design {
+.design {
   color: white;
   font-weight: bold;
   background-image: url(the-flatiron-building.png)
+}
+.last {
+  color: white;
+  text-align: left;
+  background-color: gray;
 }
